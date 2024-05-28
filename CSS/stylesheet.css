@@ -187,8 +187,8 @@ h2{
 }
 .button_a{
     font-weight: bold;
-    background-color: #8e4dc5;
-    font-size: 16px;
+    background-color: #8f6142;
+    font-size: 23px;
     padding: 15px 30px;
     border-radius: 4px;
     text-decoration: none;
@@ -274,13 +274,12 @@ h2{
     }
     .button_a{
         font-weight: bold;
-        background-color: #8e4dc5;
+        background-color: #8f6142;
         font-size: 16px;
         padding: 8px 30px;
         border-radius: 4px;
         text-decoration: none;
     }
-    
 }
 @media screen and (max-width:1024px) {
     .session{
@@ -330,7 +329,7 @@ h2{
     }
     .button_a{
         font-weight: bold;
-        background-color: #474037;
+        background-color: #8f6142;
         font-size: 16px;
         padding: 8px 30px;
         border-radius: 4px;
