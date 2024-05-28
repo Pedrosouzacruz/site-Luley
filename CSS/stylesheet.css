@@ -1,0 +1,206 @@
+body{
+    margin: 0;
+    font-family:"Montserrat",sans-serif;
+}
+header{
+    background-position: top right;
+    display: flex;
+    width: 100%;
+    height: auto;
+    background-color: transparent;
+    background-image: linear-gradient(45deg,#2b2b2b 100%,#000 0);
+}
+
+span{
+    color: white;
+}
+
+p{
+    color: white;
+}
+
+h2{
+    color:white;
+}
+.content_1{
+    align-content: space-between;
+}
+
+
+
+
+.content_2{
+    background-image: url(../IMG/card_principal.jpg);
+    padding: 250px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top right;
+}
+.content_2 div{
+    
+    width: 100%;
+    height: 100%;
+
+}
+.card_1{
+    text-align: center;
+    margin-top: 75px;
+    margin-right: 40px;
+    margin-left: 40px;
+}
+
+.card_2{
+    border: 1px solid black;
+    width: 100%;
+    height: 100%;
+    /* justify-content: space-between; */
+    text-align: center;
+    
+}
+
+.card_3{
+    margin-left: 100px;
+    margin-top: 50px;
+    /* justify-content: space-between; */
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 175px;
+    background-image: url(https://images.pexels.com/photos/6457515/pexels-photo-6457515.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+}
+.card_4{
+    margin-left: 260px;
+    /* justify-content: space-between; */
+    text-align: center;
+    margin-top: 50px;
+}
+
+.card_4_title{
+    margin-left: 50px;
+    margin-top: 75px;
+}
+.card_4_text{
+    margin-left: 50px;
+    margin-top: 30px;
+    margin-bottom: 80px;
+}
+
+.card_5{
+    margin-left: 100px;
+    margin-top: 50px;
+    /* justify-content: space-between; */
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 175px;
+    background-image:url(https://images.unsplash.com/photo-1523289333742-be1143f6b766?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D) ;
+}
+
+.card_6{
+    margin-left: 100px;
+    margin-top: 50px;
+    /* justify-content: space-between; */
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 175px;
+    background-image: url(https://images.pexels.com/photos/5538322/pexels-photo-5538322.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+}
+
+.card_7{
+    margin-left: 100px;
+    margin-top: 50px;
+    /* justify-content: space-between; */
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 175px;
+    background-image: url(https://images.unsplash.com/photo-1516251193007-45ef944ab0c6?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+}
+
+
+
+.session{
+    background-position: top right;
+    display: flex;
+    width: 100%;
+    height: auto;
+    background-color: transparent;
+    background-image: linear-gradient(45deg,#2b2b2b 100%,#000 0);
+    
+}
+
+.session_2{
+    background-position: top right;
+    display: flex;
+    width: 100%;
+    height: 400px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: linear-gradient(45deg,#2b2b2b 100%,#000 0);
+
+}
+.session_3{
+    background-position: top right;
+    display: flex;
+    width: 100%;
+    height: 400px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: linear-gradient(45deg,#2b2b2b 100%,#000 0);
+}
+
+.button_div{
+    margin-right: 100px;
+}
+
+.button_div2{
+    margin: 18px 70px 70px 200px;
+}
+
+.button_div3{
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+}
+.button_a{
+    font-weight: bold;
+    background-color: #8e4dc5;
+    font-size: 16px;
+    padding: 15px 30px;
+    border-radius: 4px;
+    text-decoration: none;
+}
+.button{
+    display: flex;
+    justify-content: center;
+}
+
+.text_button{
+    flex-grow: 1;
+    order: 10;
+    display: inline-block;
+}
+
+.logo_insta{
+    background-image: url(https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000);
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 15px;
+    margin-left: 16px;
+}
+.logo_zap{
+    background-image: url(https://img.icons8.com/?size=100&id=16713&format=png&color=000000);
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 15px;
+    margin-left: 16px;
+}
+.logo_yt{
+    background-image: url(https://img.icons8.com/?size=100&id=19318&format=png&color=000000);
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 15px;
+    margin-left: 16px;
+}
+
